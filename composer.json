@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-be-task",
-    "description": "Control panel module \"System tasks\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "module",
-        "task"
-    ],
+    "description": "Control Panel module \"System tasks\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "task"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-task",
     "type": "component",
     "license": "MIT",
